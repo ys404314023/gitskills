@@ -1,3 +1,3 @@
 # gitskills
 <<<<<<< HEAD
-i insert something here.
+i am insert something here.
